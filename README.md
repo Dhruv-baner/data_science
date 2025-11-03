@@ -1,2 +1,2 @@
-# data_science
-All the fundamentals you need for Data Science, Python and ML 
+# Data Science 101
+All the fundamentals you need for Data Science, Python, and ML 
